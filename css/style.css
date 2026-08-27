@@ -28,7 +28,7 @@ section h2 {
     margin-bottom: 14px;
     padding-left: 10px;
 }
-span {
+.cv-lista > li > span {
     font-weight: bold;
     font-style: italic;
 }
